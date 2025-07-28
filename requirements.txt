@@ -1,0 +1,22 @@
+# PyQt5 for the GUI framework
+PyQt5
+
+# Pandas for data manipulation with Excel files
+pandas
+
+# Openpyxl to read and write .xlsx files
+openpyxl
+
+# Google API client libraries for Drive, Sheets, and Forms
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+
+# python-dotenv to manage environment variables from a .env file
+python-dotenv
+
+# Google Generative AI for Gemini API access
+google-generativeai
+
+# Requests library for making HTTP requests (like downloading the background image)
+requests
